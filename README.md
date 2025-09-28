@@ -1,2 +1,8 @@
-# linear-regression-scratch
-gradient descent implementation of linear regression in Python with loss curve and regression line plotting.
+# Linear Regression from Scratch
+
+This repo contains an implementation of linear regression using NumPy.
+
+## Features
+- Gradient descent
+- Loss curve plotting
+- Regression line visualization
